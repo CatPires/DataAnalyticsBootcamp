@@ -64,12 +64,12 @@ The Bootcamp includes 3 Modules:
 📗 Dataframe Calculations ✅ `DONE` <br/>
 📗 Data Aggregation & Summarization ✅ `DONE` <br/>
 📗 Data Manipulation ✅ `DONE` <br/>
-💻 Dataframe Calculations ✅ `DONE` <br/>
-💻 Advanced Pandas ✅ `DONE` <br/>
+💻 LAB|Dataframe Calculations » https://github.com/ta-data-lis/lab-dataframe-calculations ✅ `DONE` <br/>
+💻 LAB|Advanced Pandas » https://github.com/ta-data-lis/lab-advanced-pandas ✅ `DONE` <br/>
 📗 Data Import, Export and Cleaning ✅ `DONE` <br/>
 💡 Map, Reduce, & Filter ✅ `DONE` <br/>
-💻 Data Cleaning ✅ `DONE` <br/>
-💻 Importing and Exporting Data ✅ `DONE` <br/>
+💻 LAB|Data Cleaning » https://github.com/ta-data-lis/lab-data-cleaning ✅ `DONE` <br/>
+💻 LAB|Importing and Exporting Data » https://github.com/ta-data-lis/lab-import-export ✅ `DONE` <br/>
 <br/>
 
 ### Week 6
