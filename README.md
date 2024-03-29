@@ -169,15 +169,15 @@ The Bootcamp includes 3 Modules:
 
 ### Week 14
 📗 Hypothesis Testing and Statistical Significance ✅ `DONE` <br/>
-💻 Hypothesis Testing ✅ `DONE` <br/>
+💻 LAB|Hypothesis Testing » https://github.com/ta-data-lis/lab-hypothesis-testing-1 ✅ `DONE` <br/>
 📗 Two Sample Hypothesis Tests with Scipy ✅ `DONE` <br/>
 📗 More Hypothesis Testing with SciPy and Stats Models ✅ `DONE` <br/>
-💻 LAB | Hypothesis Tests 2 ✅ `DONE` <br/>
-💻 LAB | Two Sample Hypothesis Tests ✅ `DONE` <br/>
+💻 LAB|Hypothesis Tests 2 » https://github.com/ta-data-lis/lab-hypothesis-testing-2 ✅ `DONE` <br/>
+💻 LAB|Two Sample Hypothesis Tests » https://github.com/ta-data-lis/lab-two-sample-hyp-test ✅ `DONE` <br/>
 📗 Goodness of Fit ✅ `DONE` <br/>
-💻 LAB | Intro to Scipy ✅ `DONE` <br/>
-💻 LAB | Goodness of Fit ✅ `DONE` <br/>
-💻 Hypothesis Testing Mini-Project ✅ `DONE` <br/>
+💻 LAB|Intro to Scipy » https://github.com/ta-data-lis/lab-intro-to-scipy ✅ `DONE` <br/>
+💻 LAB|Goodness of Fit » https://github.com/ta-data-lis/lab-goodfit-indeptests ✅ `DONE` <br/>
+💻 LAB|Hypothesis Testing Mini-Project » https://github.com/ta-data-lis/M2-mini-project2 ✅ `DONE` <br/>
 <br/>
 
 ### Week 15
