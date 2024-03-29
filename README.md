@@ -148,13 +148,13 @@ The Bootcamp includes 3 Modules:
 
 ### Week 12
 📗 Regression ✅ `DONE` <br/>
-💻 EDA Mini-project - Part 2 | Optional ✅ `DONE` <br/>
+💻 LAB|EDA Mini-project - Part 2 | Optional » https://github.com/ta-data-lis/M2-mini-project1 ✅ `DONE` <br/>
 📗 Logistic Regression ✅ `DONE` <br/>
-💻 LAB | Linear Regression ✅ `DONE` <br/>
+💻 LAB|Linear Regression » https://github.com/ta-data-lis/lab-regression-analysis ✅ `DONE` <br/>
 📗 Introduction to Probability ✅ `DONE` <br/>
 📗 Introduction to Bayesian Statistics ✅ `DONE` <br/>
 💡 Deepdive on Statistical Concepts | Optional ✅ `DONE` <br/>
-💻 LAB | Introduction to Probability ✅ `DONE` <br/>
+💻 LAB|Introduction to Probability » https://github.com/ta-data-lis/lab-intro-prob ✅ `DONE` <br/>
 <br/>
 
 ### Week 13
