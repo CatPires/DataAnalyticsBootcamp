@@ -230,16 +230,16 @@ The Bootcamp includes 3 Modules:
 
 ### Week 21
 📗 Unsupervised Learning ✅ `DONE` <br/>
-💻 LAB | Unsupervised Learning ✅ `DONE` <br/>
+💻 LAB|Unsupervised Learning » https://github.com/ta-data-lis/lab-unsupervised-learning ✅ `DONE` <br/>
 📗 Evaluating Unsupervised Learning Algorithms ✅ `DONE` <br/>
-💻 LAB | Unsupervised Learning with Sk-Learn ✅ `DONE` <br/>
+💻 LAB|Unsupervised Learning with Sk-Learn » https://github.com/ta-data-lis/lab-unsupervised-learning-and-sklearn ✅ `DONE` <br/>
 📗 Natural Language Processing ✅ `DONE` <br/>
-💻 LAB | Natural Language Processing ✅ `DONE` <br/>
+💻 LAB|Natural Language Processing » https://github.com/ta-data-lis/lab-nlp ✅ `DONE` <br/>
 <br/>
 
 ### Week 22
 📗 Deep Learning - Intro ✅ `DONE` <br/>
-💻 LAB |Deep Learning ✅ `DONE` <br/>
+💻 LAB|Deep Learning ✅ `DONE` <br/>
 <br/>
 
 ### Week 23
