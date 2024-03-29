@@ -195,7 +195,7 @@ The Bootcamp includes 3 Modules:
 ### Week 17
 📗 Time Series ✅ `DONE` <br/>
 📗 Multiprocessing & Parallelization ✅ `DONE` <br/>
-💻 Parallelization | Optional ✅ `DONE` <br/>
+💻 LAB|Parallelization | Optional » https://github.com/ta-data-lis/Parallelization ✅ `DONE` <br/>
 🤓 Flask ✅ `DONE` <br/>
 <br/>
 
@@ -204,9 +204,9 @@ The Bootcamp includes 3 Modules:
 📗 Introduction to Artificial Intelligence ✅ `DONE` <br/>
 📗 Machine Learning Workflow ✅ `DONE` <br/>
 📗 Data Cleaning Review & A Pre-Analysis Example ✅ `DONE` <br/>
-💻 LAB | Intro to Machine Learning ✅ `DONE` <br/>
+💻 LAB|Intro to Machine Learning » https://github.com/ta-data-lis/lab-intro-to-ml ✅ `DONE` <br/>
 📗 Feature Scaling and Selection ✅ `DONE` <br/>
-💻 LAB | Feature Extraction ✅ `DONE` <br/>
+💻 LAB|Feature Extraction » https://github.com/ta-data-lis/lab-supervised-learning-feature-extraction ✅ `DONE` <br/>
 <br/>
 
 ### Week 19
