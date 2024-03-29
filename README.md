@@ -75,9 +75,9 @@ The Bootcamp includes 3 Modules:
 ### Week 6
 
 📗 Lambda Functions ✅ `DONE` <br/>
-💻 Lambda Functions ✅ `DONE` <br/>
+💻 LAB|Lambda Functions » https://github.com/ta-data-lis/lab-lambda-functions ✅ `DONE` <br/>
 🤓 Python Environments ✅ `DONE` <br/>
-💻 Pandas Deep Dive ✅ `DONE` <br/>
+💻 LAB|Pandas Deep Dive » https://github.com/ta-data-lis/lab-pandas-deep-dive ✅ `DONE` <br/>
 💡 Data Pipelines ✅ `DONE` <br/>
 🤓 Data Warehousing ✅ `DONE` <br/>
 💪 SQL Project ✅ `DONE` <br/>
