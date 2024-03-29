@@ -222,8 +222,8 @@ The Bootcamp includes 3 Modules:
 💡 Reinforcement Learning ✅ `DONE` <br/>
 📗 Problems in Machine Learning ✅ `DONE` <br/>
 📗 Hyperparameter Tuning ✅ `DONE` <br/>
-💻 LAB|Imbalance ✅ `DONE` <br/>
-💻 LAB|Problems in Machine Learning ✅ `DONE` <br/>
+💻 LAB|Imbalance » https://github.com/ta-data-lis/lab-imbalance ✅ `DONE` <br/>
+💻 LAB|Problems in Machine Learning » https://github.com/ta-data-lis/lab-problems-in-ml ✅ `DONE` <br/>
 🤓 Pickling ✅ `DONE` <br/>
 📗 IronKaggle ✅ `DONE` <br/>
 <br/>
