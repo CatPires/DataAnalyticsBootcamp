@@ -111,11 +111,11 @@ The Bootcamp includes 3 Modules:
 ### Week 9
 
 💡 Code Simplicity and Efficiency ✅ `DONE` <br/>
-💻 Code Simplicity and Efficiency | Optional ✅ `DONE` <br/>
+💻 LAB|Code Simplicity and Efficiency | Optional » https://github.com/ta-data-lis/Code-Simplicity-Efficiency ✅ `DONE` <br/>
 📗 Introduction to Matplotlib ✅ `DONE` <br/>
 📗 Introduction to Seaborn ✅ `DONE` <br/>
 📗 Exploratory Data Visualization Charts ✅ `DONE` <br/>
-💻 LAB | MatPlotLib & Seaborn ✅ `DONE` <br/>
+💻 LAB|MatPlotLib & Seaborn » https://github.com/ta-data-lis/lab-matplotlib-seaborn/ ✅ `DONE` <br/>
 💪 Data Thieves ✅ `DONE` <br/>
 <br/>
 
