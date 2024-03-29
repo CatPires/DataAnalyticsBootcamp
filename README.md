@@ -252,24 +252,24 @@ The Bootcamp includes 3 Modules:
 
 ## Projects
 💪 Escape Room Project ✅ `DONE` <br/>
-https://github.com/CatPires/DataAnalyticsBootcamp_EscapeRoomProject
-https://github.com/ta-data-lis/python-project
+https://github.com/CatPires/DataAnalyticsBootcamp_EscapeRoomProject <br/>
+https://github.com/ta-data-lis/python-project <br/>
 
 💪 SQL Project ✅ `DONE` <br/>
-https://github.com/CatPires/DataAnalyticsBootcamp_SQLProject
+https://github.com/CatPires/DataAnalyticsBootcamp_SQLProject <br/>
 
 💪 Data Thieves ✅ `DONE` <br/>
-https://github.com/CatPires/DataAnalyticsBootcamp_DataThieves
-https://github.com/ta-data-lis/Project-Week-3-Data-Thieves
+https://github.com/CatPires/DataAnalyticsBootcamp_DataThieves <br/>
+https://github.com/ta-data-lis/Project-Week-3-Data-Thieves <br/>
 
 💪 Tableau Mini Project ✅ `DONE` <br/>
 
 💪 Data Analysis Project ✅ `DONE` <br/>
-https://github.com/CatPires/DataAnalyticsBootcamp_DataAnalysisProject
-https://github.com/ta-data-lis/Project-Week-6
+https://github.com/CatPires/DataAnalyticsBootcamp_DataAnalysisProject <br/>
+https://github.com/ta-data-lis/Project-Week-6 <br/>
 
 💪 Final Project ✅ `DONE` <br/>
-https://github.com/CatPires/DataAnalyticsBootcamp_FinalProject
+https://github.com/CatPires/DataAnalyticsBootcamp_FinalProject <br/>
 <br/>
 <br/>
 
