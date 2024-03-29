@@ -18,8 +18,8 @@ The Bootcamp includes 3 Modules:
 📗 Resolving Merge Conflicts in Git ✅ `DONE` <br/>
 📗 List Comprehension ✅ `DONE` <br/>
 📗 Dicts, Sets, and Tuples ✅ `DONE` <br/>
-💻 LAB | List Comprehension ✅ `DONE` <br/>
-💻 LAB | Dicts, Sets, and Tuples ✅ `DONE` <br/>
+💻 LAB | List Comprehension » https://github.com/ta-data-lis/lab-list-comprehensions✅ `DONE` <br/>
+💻 LAB | Dicts, Sets, and Tuples » https://github.com/ta-data-lis/lab-tuple-set-dict✅ `DONE` <br/>
 <br/>
 
 ### Week 2
@@ -27,21 +27,21 @@ The Bootcamp includes 3 Modules:
 📗 Functional Programming ✅ `DONE` <br/>
 🤓 Intro to Career Services ✅ `DONE` <br/>
 📗 String Operations ✅ `DONE` <br/>
-💻 LAB | String Operations ✅ `DONE` <br/>
+💻 LAB | String Operations » https://github.com/ta-data-lis/lab-string-operations ✅ `DONE` <br/>
 📗 Error Handling ✅ `DONE` <br/>
-💻 LAB|Error Handling ✅ `DONE` <br/>
+💻 LAB|Error Handling » https://github.com/ta-data-lis/lab-error-handling ✅ `DONE` <br/>
 <br/>
 
 ### Week 3
 
 📗 Introduction to Numpy ✅ `DONE` <br/>
-💻 Numpy ✅ `DONE` <br/>
+💻 LAB|Numpy » https://github.com/ta-data-lis/lab-numpy ✅ `DONE` <br/>
 🤓 Read Documentation ✅ `DONE` <br/>
 📗 Introduction to Pandas ✅ `DONE` <br/>
 🤓 Object Oriented Programming ✅ `DONE` <br/>
 📗 Object Oriented Programming ✅ `DONE` <br/>
 💡 Polite Coding and Debugging ✅ `DONE` <br/>
-💻 Intro to Pandas ✅ `DONE` <br/>
+💻 LAB|Intro to Pandas » https://github.com/ta-data-lis/lab-intro-pandas ✅ `DONE` <br/>
 💪 Escape Room Project ✅ `DONE` <br/>
 <br/>
 
