@@ -86,15 +86,15 @@ The Bootcamp includes 3 Modules:
 ### Week 7
 
 📗 Working with APIs ✅ `DONE` <br/>
-💻 Mini-project - Part 1 ✅ `DONE` <br/>
+💻 LAB|Mini-project - Part 1 » https://github.com/ta-data-lis/M2-mini-project1 ✅ `DONE` <br/>
 📗 Advanced APIs ✅ `DONE` <br/>
 📗 API Wrappers ✅ `DONE` <br/>
-💻 LAB | API Scavenger Game ✅ `DONE` <br/>
-💻 API wrappers | Optional ✅ `DONE` <br/>
+💻 LAB|API Scavenger Game » https://github.com/ta-data-lis/lab-api-scavenger ✅ `DONE` <br/>
+💻 LAB|API wrappers | Optional » https://github.com/ta-data-lis/Stack-API ✅ `DONE` <br/>
 📗 Introduction to Web Content ✅ `DONE` <br/>
 📗 Web Scraping ✅ `DONE` <br/>
 📗 Web Scraping Deep Dive ✅ `DONE` <br/>
-💻 LAB | Web Scraping ✅ `DONE` <br/>
+💻 LAB|Web Scraping » https://github.com/ta-data-lis/lab-web-scraping ✅ `DONE` <br/>
 <br/>
 
 ### Week 8
@@ -102,7 +102,7 @@ The Bootcamp includes 3 Modules:
 🤓 Selenium for Web Scraping' ✅ `DONE` <br/>
 🤓 Kaggle - Intro ✅ `DONE` <br/>
 📗 Advanced Regex ✅ `DONE` <br/>
-💻 Advanced Regular Expressions ✅ `DONE` <br/>
+💻 LAB|Advanced Regular Expressions » https://github.com/ta-data-lis/lab-advanced-regex ✅ `DONE` <br/>
 <br/>
 <br/>
 
