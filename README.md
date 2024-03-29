@@ -239,7 +239,7 @@ The Bootcamp includes 3 Modules:
 
 ### Week 22
 📗 Deep Learning - Intro ✅ `DONE` <br/>
-💻 LAB|Deep Learning ✅ `DONE` <br/>
+💻 LAB|Deep Learning » https://github.com/ta-data-lis/lab-deep-learning ✅ `DONE` <br/>
 <br/>
 
 ### Week 23
