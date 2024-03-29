@@ -18,8 +18,8 @@ The Bootcamp includes 3 Modules:
 📗 Resolving Merge Conflicts in Git ✅ `DONE` <br/>
 📗 List Comprehension ✅ `DONE` <br/>
 📗 Dicts, Sets, and Tuples ✅ `DONE` <br/>
-💻 LAB | List Comprehension » https://github.com/ta-data-lis/lab-list-comprehensions✅ `DONE` <br/>
-💻 LAB | Dicts, Sets, and Tuples » https://github.com/ta-data-lis/lab-tuple-set-dict✅ `DONE` <br/>
+💻 LAB | List Comprehension » https://github.com/ta-data-lis/lab-list-comprehensions ✅ `DONE` <br/>
+💻 LAB | Dicts, Sets, and Tuples » https://github.com/ta-data-lis/lab-tuple-set-dict ✅ `DONE` <br/>
 <br/>
 
 ### Week 2
@@ -53,10 +53,10 @@ The Bootcamp includes 3 Modules:
 📗 Subqueries & Temp Tables ✅ `DONE` <br/>
 📗 Action Queries ✅ `DONE` <br/>
 📗 Python-SQL Connection ✅ `DONE` <br/>
-💻 MySQL First Queries ✅ `DONE` <br/>
-💻 MySQL Select ✅ `DONE` <br/>
-💻 MySQL Actions ✅ `DONE` <br/>
-💻 MySQL Advanced (Optional) ✅ `DONE` <br/>
+💻 LAB|MySQL First Queries » https://github.com/ta-data-lis/lab-mysql-first-queries ✅ `DONE` <br/>
+💻 LAB|MySQL Select » https://github.com/ta-data-lis/lab-mysql-select ✅ `DONE` <br/>
+💻 LAB|MySQL Actions » https://github.com/ta-data-lis/lab-mysql ✅ `DONE` <br/>
+💻 LAB|MySQL Advanced (Optional) » https://github.com/ta-data-lis/lab-advanced-mysql ✅ `DONE` <br/>
 <br/>
 
 ### Week 5
