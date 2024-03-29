@@ -125,11 +125,11 @@ The Bootcamp includes 3 Modules:
 📗 Introduction to Business Intelligence ✅ `DONE` <br/>
 📗 Introduction to Tableau ✅ `DONE` <br/>
 📗 BI Analysis with Tableau ✅ `DONE` <br/>
-💻 LAB| Introduction to BI and Tableau ✅ `DONE` <br/>
-💻 LAB | BI Analysis with Tableau ✅ `DONE` <br/>
+💻 LAB|Introduction to BI and Tableau » https://github.com/ta-data-lis/lab-intro-bi-tableau ✅ `DONE` <br/>
+💻 LAB|BI Analysis with Tableau » https://github.com/ta-data-lis/lab-bi-analysis-tableau ✅ `DONE` <br/>
 📗 Data Visualization with Tableau ✅ `DONE` <br/>
-💻 LAB | Data Visualization with Tableau ✅ `DONE` <br/>
-💻 Tableau Advanced Charts | Optional ✅ `DONE` <br/>
+💻 LAB|Data Visualization with Tableau » https://github.com/ta-data-lis/lab-tableau-data-viz ✅ `DONE` <br/>
+💻 LAB|Tableau Advanced Charts | Optional ✅ `DONE` <br/>
 📗 Dashboarding ✅ `DONE` <br/>
 🤓 Building a Security Layer ✅ `DONE` <br/>
 <br/>
@@ -137,12 +137,12 @@ The Bootcamp includes 3 Modules:
 ### Week 11
 
 📗 Descriptive Statistics ✅ `DONE` <br/>
-💻 Descriptive Statistics ✅ `DONE` <br/>
+💻 LAB|Descriptive Statistics ✅ `DONE` <br/>
 📗 Field Relationships and Correlations ✅ `DONE` <br/>
 📗 Descriptive Statistics With Python ✅ `DONE` <br/>
-💻 Subsetting and Descriptive Statistics ✅ `DONE` <br/>
+💻 LAB|Subsetting and Descriptive Statistics ✅ `DONE` <br/>
 📗 Pivot Tables ✅ `DONE` <br/>
-💻 Pivot Tables ✅ `DONE` <br/>
+💻 LAB|Pivot Tables ✅ `DONE` <br/>
 💪 Tableau Mini Project ✅ `DONE` <br/>
 <br/>
 
