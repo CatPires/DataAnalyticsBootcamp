@@ -211,10 +211,10 @@ The Bootcamp includes 3 Modules:
 
 ### Week 19
 📗 Supervised Learning: Classification ✅ `DONE` <br/>
-💻 LAB | Supervised Learning ✅ `DONE` <br/>
+💻 LAB|Supervised Learning » https://github.com/ta-data-lis/lab-supervised-learning ✅ `DONE` <br/>
 📗 Evaluating Supervised Learning Algorithms ✅ `DONE` <br/>
 📗 Supervised Learning: Regression & Time Series ✅ `DONE` <br/>
-💻 LAB | Supervised Learning with Sk-learn ✅ `DONE` <br/>
+💻 LAB|Supervised Learning with Sk-learn » https://github.com/ta-data-lis/lab-supervised-learning-sklearn ✅ `DONE` <br/>
 <br/>
 
 ### Week 20
@@ -222,8 +222,8 @@ The Bootcamp includes 3 Modules:
 💡 Reinforcement Learning ✅ `DONE` <br/>
 📗 Problems in Machine Learning ✅ `DONE` <br/>
 📗 Hyperparameter Tuning ✅ `DONE` <br/>
-💻 Imbalance ✅ `DONE` <br/>
-💻 Problems in Machine Learning ✅ `DONE` <br/>
+💻 LAB|Imbalance ✅ `DONE` <br/>
+💻 LAB|Problems in Machine Learning ✅ `DONE` <br/>
 🤓 Pickling ✅ `DONE` <br/>
 📗 IronKaggle ✅ `DONE` <br/>
 <br/>
