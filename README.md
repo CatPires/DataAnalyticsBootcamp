@@ -137,12 +137,12 @@ The Bootcamp includes 3 Modules:
 ### Week 11
 
 📗 Descriptive Statistics ✅ `DONE` <br/>
-💻 LAB|Descriptive Statistics ✅ `DONE` <br/>
+💻 LAB|Descriptive Statistics » https://github.com/ta-data-lis/lab-understanding-descriptive-stats/ ✅ `DONE` <br/>
 📗 Field Relationships and Correlations ✅ `DONE` <br/>
 📗 Descriptive Statistics With Python ✅ `DONE` <br/>
-💻 LAB|Subsetting and Descriptive Statistics ✅ `DONE` <br/>
+💻 LAB|Subsetting and Descriptive Statistics » https://github.com/ta-data-lis/lab-subsetting-and-descriptive-stats ✅ `DONE` <br/>
 📗 Pivot Tables ✅ `DONE` <br/>
-💻 LAB|Pivot Tables ✅ `DONE` <br/>
+💻 LAB|Pivot Tables » https://github.com/ta-data-lis/lab-pivot-table-and-correlation ✅ `DONE` <br/>
 💪 Tableau Mini Project ✅ `DONE` <br/>
 <br/>
 
