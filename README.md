@@ -160,11 +160,11 @@ The Bootcamp includes 3 Modules:
 ### Week 13
 📗 Probability Distributions ✅ `DONE` <br/>
 📗 Probability Distributions Review ✅ `DONE` <br/>
-💻 LAB | Probability Distributions ✅ `DONE` <br/>
+💻 LAB|Probability Distributions » https://github.com/ta-data-lis/lab-probability-distributions ✅ `DONE` <br/>
 📗 Sample VS Population ✅ `DONE` <br/>
 📗 Central Limit Theorem ✅ `DONE` <br/>
 📗 Confidence Intervals ✅ `DONE` <br/>
-💻 LAB | Confidence Intervals ✅ `DONE` <br/>
+💻 LAB|Confidence Intervals » https://github.com/ta-data-lis/lab-confidence-intervals ✅ `DONE` <br/>
 <br/>
 
 ### Week 14
